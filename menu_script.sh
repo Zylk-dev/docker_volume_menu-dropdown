@@ -9,7 +9,7 @@ echo -e "\033[1;33m=====================\033[0m"
 
 while true; do
     echo "======================================"
-    echo "   Galactic Hiker's Tool Menu"
+    echo "   Tool Menu"
     echo "======================================"
     echo "1. Create a new directory"
     echo "2. List files in /data"
